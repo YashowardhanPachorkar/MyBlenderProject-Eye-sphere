@@ -1,31 +1,32 @@
 # 👁️ UV Sphere Eye (Blender Project)
 
-This is a Blender project that creates a realistic 3D eyeball using a UV Sphere mesh.
+This is a Blender project that creates a surreal and stylized 3D eyeball using a UV Sphere mesh and advanced material setup.
 
 ## 🧰 Project Details
 
 - **File:** `UV sphere Eye.blend`
-- **Software:** Blender (recommended version: 3.x or later)
-- **Concept:** A stylized or realistic human eye model made using UV sphere geometry and material shaders.
+- **Render Image:** `UV sphere Eye1.png`
+- **Software:** Blender (Recommended version: 3.x or later)
+- **Concept:** A highly stylized human eye model with fur-like surroundings, using UV Sphere geometry and shader effects.
 
-## 🔧 Features
+## 🧪 Features
 
-- UV Sphere modeling
-- Material and texture setup (Iris, Sclera, Cornea)
-- Suitable for rendering, animation, or character integration
+- UV Sphere modeling for the eyeball
+- Custom procedural textures and shading
+- Advanced lighting and rendering setup
+- Artistic "eyelash-petal" effect using particle system or geometry nodes
 
 ## 🚀 How to Use
 
-1. Download the `.blend` file from this repository.
-2. Open it in [Blender](https://www.blender.org/).
-3. Press `Z` → `Rendered` mode to preview shading.
-4. Customize materials or animation as needed.
+1. Clone or download this repository.
+2. Open `UV sphere Eye.blend` in [Blender](https://www.blender.org/).
+3. Press `Z` → `Rendered` mode or F12 to render.
+4. Customize the model or use it in your own projects.
 
-## 📸 Preview
+## 📸 Render Preview
 
-> *(Add a rendered image here if available)*
+![UV Sphere Eye Render](UV%20sphere%20Eye1.png)
 
-You can take a render in Blender and upload it here to show how the model looks.
+> A high-quality render of the stylized eyeball model with surreal fiber detailing.
 
-## 📁 File Structure
 
